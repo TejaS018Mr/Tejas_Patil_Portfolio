@@ -1,32 +1,31 @@
-# Personal Portfolio
+# Tejas Patil Portfolio
 
-This repository contains a beautiful, responsive personal portfolio built using **React**, **Vite**, and **TailwindCSS**. The project showcases modern web development techniques including smooth animations, responsive layouts, and interactive UI components.
-
-### Want to watch this?
-[![Check this out](https://img.youtube.com/vi/LGdPMf-SgBA/maxresdefault.jpg)](https://youtu.be/LGdPMf-SgBA)
-
+A modern, responsive personal portfolio built with **React**, **Vite**, and **TailwindCSS**. This portfolio showcases my skills, projects, and professional experience as a Full Stack Developer.
 
 ## Features
 
-- **Modern Design:** Clean, SaaS-inspired design with a glass-effect navbar and sleek animations.
-- **Responsive Layout:** Fully responsive across desktop, tablet, and mobile devices.
-- **Interactive Components:** Animated sections and a mobile-friendly hamburger menu with smooth transitions.
-- **Optimized Performance:** Fast development build using Vite with TailwindCSS for efficient styling.
+- **Modern UI/UX:** Clean, minimalist design with smooth animations and transitions
+- **Responsive Design:** Fully optimized for all devices (mobile, tablet, desktop)
+- **Interactive Elements:** Animated sections, smooth scrolling, and dynamic content
+- **Contact Form:** Integrated EmailJS for direct communication
+- **Resume Section:** Easy access to view and download resume
+- **Performance Optimized:** Built with Vite for fast loading and rendering
 
 ## Technologies
 
-- **React:** Component-based UI library.
-- **Vite:** Fast and lean development build tool.
-- **TailwindCSS:** Utility-first CSS framework.
-- **JavaScript (ES6+):** Modern JavaScript features and best practices.
+- React 18
+- Vite
+- TailwindCSS
+- EmailJS
+- Framer Motion
+- React Type Animation
 
-## Installation
+## Local Development
 
 1. **Clone the repository:**
-
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
-   cd your-portfolio
+   git clone https://github.com/TejaS018Mr/Tejas_Patil_Portfolio.git
+   cd Tejas_Patil_Portfolio
    ```
 
 2. **Install dependencies:**
