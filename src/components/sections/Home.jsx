@@ -17,7 +17,7 @@ export const Home = () => {
           <div className="mb-8 relative inline-block">
             <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-4 border-blue-500/30 hover:border-blue-500 transition-all duration-300 transform hover:scale-105">
               <img
-                src="tejas-patil-portfolio/public/images/tejas-profile-image.jpg"
+                src="/images/tejas-profile-image.jpg"
                 alt="Tejas Patil"
                 className="w-full h-full object-cover"
               />

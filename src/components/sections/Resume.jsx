@@ -1,7 +1,7 @@
 export const Resume = () => {
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/Tejas_Patil_Portfolio/Tejas_Patil_Resume_Acqueon.pdf';
+    link.href = '/Tejas_Patil_Portfolio/images/Tejas_Patil_Resume_Acqueon.pdf';
     link.download = 'Tejas_Patil_Resume_Acqueon.pdf';
     document.body.appendChild(link);
     link.click();
@@ -9,7 +9,7 @@ export const Resume = () => {
   };
 
   const handleView = () => {
-    window.open('/Tejas_Patil_Portfolio/Tejas_Patil_Resume_Acqueon.pdf', '_blank');
+    window.open('/Tejas_Patil_Portfolio/images/Tejas_Patil_Resume_Acqueon.pdf', '_blank');
   };
 
   return (

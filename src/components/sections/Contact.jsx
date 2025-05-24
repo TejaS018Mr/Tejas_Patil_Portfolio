@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
 import { RevealOnScroll } from "../RevealOnScroll";
-import emailjs from "emailjs-com";
+import emailjs from '@emailjs/browser';
 import { SocialLinks } from "../SocialLinks";
 
 export const Contact = () => {
